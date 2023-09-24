@@ -1,0 +1,101 @@
+rank_order,rank,name,location,loc_count
+10,1,University of Oxford,United Kingdom,10
+20,2,Harvard University,United States,34
+30,3,University of Cambridge,United Kingdom,10
+40,3,Stanford University,United States,34
+50,5,Massachusetts Institute of Technology,United States,34
+60,6,California Institute of Technology,United States,34
+70,7,Princeton University,United States,34
+80,8,"University of California, Berkeley",United States,34
+90,9,Yale University,United States,34
+100,10,Imperial College London,United Kingdom,10
+110,11,Columbia University,United States,34
+120,11,ETH Zurich,Switzerland,4
+130,13,The University of Chicago,United States,34
+140,14,University of Pennsylvania,United States,34
+150,15,Johns Hopkins University,United States,34
+160,16,Tsinghua University,China,7
+170,17,Peking University,China,7
+180,18,University of Toronto,Canada,4
+190,19,National University of Singapore,Singapore,2
+200,20,Cornell University,United States,34
+210,21,"University of California, Los Angeles",United States,34
+220,22,UCL,United Kingdom,10
+230,23,University of Michigan-Ann Arbor,United States,34
+240,24,New York University,United States,34
+250,25,Duke University,United States,34
+260,26,Northwestern University,United States,34
+270,26,University of Washington,United States,34
+280,28,Carnegie Mellon University,United States,34
+290,29,University of Edinburgh,United Kingdom,10
+300,30,Technical University of Munich,Germany,9
+310,31,University of Hong Kong,Hong Kong,5
+320,32,"University of California, San Diego",United States,34
+330,33,LMU Munich,Germany,9
+340,34,University of Melbourne,Australia,7
+350,35,King’s College London,United Kingdom,10
+360,36,"Nanyang Technological University, Singapore",Singapore,2
+370,37,London School of Economics and Political Science,United Kingdom,10
+380,38,Georgia Institute of Technology,United States,34
+390,39,The University of Tokyo,Japan,2
+400,40,University of British Columbia,Canada,4
+410,41,École Polytechnique Fédérale de Lausanne,Switzerland,4
+420,42,KU Leuven,Belgium,1
+430,43,Universität Heidelberg,Germany,9
+440,44,Monash University,Australia,7
+450,45,Chinese University of Hong Kong,Hong Kong,5
+460,46,McGill University,Canada,4
+470,47,Paris Sciences et Lettres – PSL Research University Paris,France,4
+480,48,University of Illinois at Urbana-Champaign,United States,34
+490,49,Karolinska Institute,Sweden,1
+500,50,University of Texas at Austin,United States,34
+510,51,Fudan University,China,7
+520,52,Shanghai Jiao Tong University,China,7
+530,53,The University of Queensland,Australia,7
+540,54,University of Manchester,United Kingdom,10
+550,54,The University of Sydney,Australia,7
+560,56,Seoul National University,South Korea,3
+570,57,Washington University in St Louis,United States,34
+580,58,The Hong Kong University of Science and Technology,Hong Kong,5
+590,59,Wageningen University & Research,Netherlands,7
+600,60,University of Amsterdam,Netherlands,7
+610,61,Brown University,United States,34
+620,62,Australian National University,Australia,7
+630,63,"University of California, Davis",United States,34
+640,64,"University of California, Santa Barbara",United States,34
+650,65,University of Southern California,United States,34
+660,66,Utrecht University,Netherlands,7
+670,67,Zhejiang University,China,7
+680,68,Kyoto University,Japan,2
+690,69,University of North Carolina at Chapel Hill,United States,34
+700,70,Delft University of Technology,Netherlands,7
+710,71,Boston University,United States,34
+720,71,UNSW Sydney,Australia,7
+730,73,Charité - Universitätsmedizin Berlin,Germany,9
+740,74,University of Science and Technology of China,China,7
+750,75,University of Groningen,Netherlands,7
+760,76,University of Bristol,United Kingdom,10
+770,77,Leiden University,Netherlands,7
+780,78,Yonsei University (Seoul campus),South Korea,3
+790,79,Hong Kong Polytechnic University,Hong Kong,5
+800,80,Erasmus University Rotterdam,Netherlands,7
+810,81,University of Wisconsin-Madison,United States,34
+820,82,Emory University,United States,34
+830,82,University of Glasgow,United Kingdom,10
+840,82,University of Zurich,Switzerland,4
+850,85,McMaster University,Canada,4
+860,86,Humboldt University of Berlin,Germany,9
+870,86,University of Tübingen,Germany,9
+880,88,University of Adelaide,Australia,7
+890,89,University of Bonn,Germany,9
+900,90,Sorbonne University,France,4
+910,91,Free University of Berlin,Germany,9
+920,91,Korea Advanced Institute of Science and Technology (KAIST),South Korea,3
+930,93,Université Paris-Saclay,France,4
+940,94,University of Bern,Switzerland,4
+950,95,"University of California, Irvine",United States,34
+960,95,Institut Polytechnique de Paris,France,4
+970,95,Nanjing University,China,7
+980,98,Vanderbilt University,United States,34
+990,99,City University of Hong Kong,Hong Kong,5
+1000,99,RWTH Aachen University,Germany,9
